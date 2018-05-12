@@ -1,0 +1,26 @@
+_repo: Fur-Farming-For-ProfitWith-Especial-Reference-to-Skunk-Raising_42888
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42888-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Laymon, Hermon Basil
+    birthdate: 1888
+    gutenberg_agent_id: '41913'
+    url: http://www.gutenberg.org/2009/agents/41913
+description: ''
+gutenberg_issued: '2013-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fur farming'
+- !lcsh 'Skunks'
+- !lcc 'SF'
+title: Fur Farming for Profit, with Especial Reference to Skunk Raising
+url: http://www.gutenberg.org/ebooks/42888
